@@ -1,0 +1,3 @@
+Movies API from OMDB = http://www.omdbapi.comi=tt3896198&apikey=3ee86658
+
+Weather API = https://api.weatherapi.com/v1/current.json?key=523d6783587546928ac121424202812&q=London
